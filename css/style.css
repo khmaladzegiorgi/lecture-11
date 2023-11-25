@@ -1,0 +1,388 @@
+header h4{
+    width: 64px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 19.55px;
+    margin-top: 57px;
+    margin-left: 144px;
+    color: #5863e3;
+}
+main h1{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 56.35px;
+    margin-left: 144px;
+}
+.sec-1 textarea{
+    resize: none;
+    width: 756px;
+    height: 298px;
+    margin-left: 144px;
+    border-width: 2px;
+    border-color: #d4d3d3;
+    margin-top: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+.subject{
+    margin-top: 50px;
+    margin-left: 5px;
+    width: 370px;
+    height: 59px;
+    background-color: #f8f8f8;
+    border-width: 2px ;
+    border-color: #d4d3d3;
+    border-top-color:#d4d3d3 ;
+    border-style: double
+    
+
+}
+ .name   {position: absolute;
+    top: 315px;
+    right: 65px;
+    width: 370px;
+    height: 59px;
+    background-color: #f8f8f8;
+    border-width: 2px ;
+    border-color: #d4d3d3;
+    border-top-color:#d4d3d3 ;
+    border-style: double;
+  display: inline-block;
+    }
+    .mail{
+        position: absolute;
+    top: 390px;
+    right: 65px;
+    width: 370px;
+    height: 59px;
+    background-color: #f8f8f8;
+    border-width: 2px ;
+    border-color: #d4d3d3;
+    border-top-color:#d4d3d3 ;
+    border-style: double;
+  display: block;
+    }
+    button{
+        width: 370px;
+        height: 59px; 
+       position: absolute;
+       top: 470px;
+       right: 65px;
+       background-color: #5968F4;
+       cursor: pointer;
+       border-style:inherit;
+    }
+    button:hover{
+        background-color: aqua;
+        transition: 2s;
+        cursor: pointer;
+    }
+    a{
+        color: white;
+    }
+    .circle{
+        position: relative;
+    left: 275px;
+    top: 60px;
+    display: inline-block;
+    }
+    .email{
+        position: relative;
+    top: 40px;
+    left: 216px;
+    }
+   .text{
+    width: 54px;
+    height: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 75px;
+    margin-left: 280px;
+    display: block;
+   }
+   .paragraph-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;
+    margin-left: 215px;
+    margin-top: 10px;
+   }
+   .paragraph-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;margin-left: -725px;
+    margin-top: 10px;
+    text-align: center;
+   }
+   .circle-2{
+    width: 68px;
+    height: 68px;
+    position: relative;
+    left: 690px;
+    top: -155px;
+   }
+.phone{
+    width: 51px;
+    height: 41px;
+    position: relative;
+    left: 625px;
+    top: -169px;
+}
+.text-2{
+    width: 54px;
+    height: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    position: relative;
+    top: -145px;
+    left: 691px;
+}
+.paragraph-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;
+    position: relative;
+    left: 660px;
+    top: -130px;
+}
+.paragraph-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;
+    position: relative;
+    left: 660px;
+    top: -120px;
+
+}
+.circle-3{
+    position: relative;
+    left: 1080px;
+    top: -270px;
+    
+}
+.text-3{
+    width: 54px;
+    height: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    position: relative;
+    position: relative;
+    top: -261px;
+    left: 1070px;
+}
+.loc{
+    position: relative;
+    top: -285px;
+    left: 1030px;
+}
+.paragraph-5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;
+    position: relative;
+    left: 1015px;
+    top: -245px;
+}
+.paragraph-6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999a;
+    position: relative;
+    left: 995px;
+    top: -230px;
+}
+.photos{
+    width: 58px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #5863e3;
+    margin-top: -100px;
+    margin-left: 144px;
+}
+.content{
+    width: 548px;
+    height: 112px;
+    margin-left: 144px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 56.35px;
+
+}
+
+.photo{
+    display: flex;
+    justify-content: space-between;
+}
+.beach{
+    width: 373px;
+    height: 373px;
+    margin-top: 70px;
+    padding-left: 61px;
+}
+.pool{
+    width: 373px;
+    height: 373px;
+    margin-top: 70px;
+    padding-left: 61px;
+}
+.building{
+    width: 373px;
+    height: 373px;
+    margin-top: 70px;
+    padding-left: 61px;
+
+}
+.black{
+    width: 1440px;
+    height: 372px;
+    background-color: black;
+    margin-top: 50px;
+}
+.hotel{
+    width: 295px;
+    height: 200px;
+    padding-left: 143px;
+    padding-top: 80px;
+    display: inline-block;
+}
+
+.hotels{width: 200px;
+    height: 30px;
+    padding-top: 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 29.9px;
+
+}
+.paragraph-7{
+    width: 295px;
+    height: 80px;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #99999a;
+}
+.facebook{
+    width: 46px;
+    height: 46px;
+    padding-top: 3px;
+}
+.google{
+    padding-top: 50px;
+}
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    color: white;
+    position: relative;
+    left: 700px;
+    top: -200px;
+
+}
+.privacy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    color: white;
+    position: relative;
+    top: -220px;
+    left: 955px;
+}
+.info{font-family: Arial, Helvetica, sans-serif;
+font-weight: 400;
+font-size: 21px;
+color: white;
+position: relative;
+top: -240px;
+left: 1140px;
+}
+.container{
+    width: 125px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: #5863E3;
+    left: 700px;
+    top: -200px;
+    
+}
+.rooms{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.blog{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+  
+}
+.card{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.testimonials{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.container-2{
+    width: 92px;
+    height: 90px;
+    color: #5863E3; 
+    position: relative;
+    left: 955px;
+    top: -300px;
+
+
+}
+.career{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+.aboutus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.contactus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.services{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding-top: 10px;
+}
